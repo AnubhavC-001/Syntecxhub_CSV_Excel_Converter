@@ -1,0 +1,31 @@
+Match ID,Map,Player,Team ID,Agent,Rating,ACS,Kills,Deaths,Assists,K/D Diff,ADR,KAST,FK,FD,FK/FD Diff
+660376,All Maps,bang,120,Harbor,0,0,0,0,0,0,0,0,0,0,0
+660376,All Maps,Cryocells,120,Cypher,0,0,0,0,0,0,0,0,0,0,0
+660376,All Maps,Asuna,120,Phoenix,0,0,0,0,0,0,0,0,0,0,0
+660376,All Maps,Timotino,120,Neon,0,0,0,0,0,0,0,0,0,0,0
+660376,All Maps,vora,120,Sova,0,0,0,0,0,0,0,0,0,0,0
+660376,Breeze,erde,120,Astra,0,0,0,0,0,0,0,0,0,0,0
+660376,Breeze,cauanzin,120,Sova,0,0,0,0,0,0,0,0,0,0,0
+660376,Breeze,Virtyy,120,Jett,0,0,0,0,0,0,0,0,0,0,0
+660376,Breeze,Darker,120,Kayo,0,0,0,0,0,0,0,0,0,0,0
+660376,Breeze,lukxo,120,Harbor,0,0,0,0,0,0,0,0,0,0,0
+660376,Split,bang,120,Harbor,1.61,267,37,0,21,+20,86%,167,48%,4,2
+660376,Split,Timotino,120,Neon,1.46,295,38,0,6,+19,77%,185,24%,10,4
+660376,Split,Cryocells,120,Cypher,1.29,200,26,0,16,+11,86%,144,30%,0,1
+660376,Split,Asuna,120,Phoenix,1.21,203,25,0,11,+8,69%,138,20%,5,7
+660376,Split,vora,120,Sova,1.05,165,21,0,10,+5,74%,105,36%,2,0
+660376,Haven,erde,120,Astra,0.83,179,21,0,7,-8,54%,112,30%,2,3
+660376,Haven,Virtyy,120,Jett,0.75,167,22,0,2,-7,51%,97,27%,3,8
+660376,Haven,cauanzin,120,Sova,0.75,135,14,0,9,-12,57%,96,19%,4,3
+660376,Haven,Darker,120,Kayo,0.65,133,15,0,10,-15,57%,84,15%,2,2
+660376,Haven,lukxo,120,Harbor,0.37,118,12,0,8,-21,51%,80,26%,3,5
+660376,Map 4,Timotino,120,Raze,0,0,0,0,0,0,0,0,0,0,0
+660376,Map 4,Cryocells,120,Viper,0,0,0,0,0,0,0,0,0,0,0
+660376,Map 4,bang,120,Omen,0,0,0,0,0,0,0,0,0,0,0
+660376,Map 4,Asuna,120,Sage,0,0,0,0,0,0,0,0,0,0,0
+660376,Map 4,vora,120,Skye,0,0,0,0,0,0,0,0,0,0,0
+660376,Map 5,erde,120,Omen,0,0,0,0,0,0,0,0,0,0,0
+660376,Map 5,Virtyy,120,Neon,0,0,0,0,0,0,0,0,0,0,0
+660376,Map 5,cauanzin,120,Skye,0,0,0,0,0,0,0,0,0,0,0
+660376,Map 5,Darker,120,Raze,0,0,0,0,0,0,0,0,0,0,0
+660376,Map 5,lukxo,120,Viper,0,0,0,0,0,0,0,0,0,0,0
